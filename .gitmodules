@@ -1,3 +1,6 @@
 [submodule "routing-demo"]
 	path = routing-demo
 	url = https://github.com/RehaniH/routing-demo.git
+[submodule "directive-demo"]
+	path = directive-demo
+	url = https://github.com/RehaniH/directive-demo.git
